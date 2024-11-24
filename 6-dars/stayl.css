@@ -1,0 +1,9 @@
+body{
+    background-color: brown;
+}
+
+div{
+    width: 300px;
+    background-color: white;
+    text-align: center;
+}

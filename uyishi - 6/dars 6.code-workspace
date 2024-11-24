@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../dars -2"
+		},
+		{
+			"path": "../../dars-4"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../6-dars"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dars-4"
+	}
+}
